@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test thread-count="5" name="Test">
+    
+  <parameter name="URL" value="www.google.com"/>
+  <parameter name="family" value="naik"/>
+ 
+  <parameter name="username" value="facebook"/>
+  <parameter name="password" value="password"/>
+  <parameter name = "name" value = "ashish"/>
+  <parameter name="strength" value="marriage"/> 
+  <groups>
+  		<run>
+  		<include name="Smoke"/>   
+  		</run>
+  </groups>
+  
+    <classes>
+      <class name="com.Testing.Day1"/>
+    
+      <class name="com.Testing.Day3">
+      	<methods>
+      		<exclude name="Weblogincarloan"/>
+      	</methods>
+      
+      </class>
+     
+    </classes>
+    
+  </test> 
+</suite>

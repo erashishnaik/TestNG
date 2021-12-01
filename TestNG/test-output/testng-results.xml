@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-30T23:39:26 IST" name="Suite" finished-at="2021-11-30T23:40:20 IST" duration-ms="54964">
+    <groups>
+    </groups>
+    <test started-at="2021-11-30T23:39:26 IST" name="Test" finished-at="2021-11-30T23:40:20 IST" duration-ms="54964">
+      <class name="com.Testing.Surround">
+        <test-method is-config="true" signature="setup1()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="setup1" finished-at="2021-11-30T23:39:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method is-config="true" signature="beforethetest()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="beforethetest" finished-at="2021-11-30T23:39:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforethetest -->
+        <test-method is-config="true" signature="SurroundEnterURL()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="SurroundEnterURL" finished-at="2021-11-30T23:39:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SurroundEnterURL -->
+        <test-method is-config="true" signature="SurroundLogin()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="SurroundLogin" finished-at="2021-11-30T23:39:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SurroundLogin -->
+        <test-method signature="Surrounddemo()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="Surrounddemo" finished-at="2021-11-30T23:39:26 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Surrounddemo -->
+        <test-method is-config="true" signature="Surroundlogout()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="Surroundlogout" finished-at="2021-11-30T23:39:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Surroundlogout -->
+        <test-method is-config="true" signature="SurroundEnterURL()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="SurroundEnterURL" finished-at="2021-11-30T23:39:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SurroundEnterURL -->
+        <test-method signature="Surroundfirst()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="Surroundfirst" finished-at="2021-11-30T23:39:26 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Surroundfirst -->
+        <test-method is-config="true" signature="Surroundlogout()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="Surroundlogout" finished-at="2021-11-30T23:39:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Surroundlogout -->
+        <test-method is-config="true" signature="Surrounddeleteallcookies()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:39:26 IST" name="Surrounddeleteallcookies" finished-at="2021-11-30T23:39:26 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Surrounddeleteallcookies -->
+        <test-method is-config="true" signature="SurroundCloseBrowser()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:40:20 IST" name="SurroundCloseBrowser" finished-at="2021-11-30T23:40:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SurroundCloseBrowser -->
+        <test-method is-config="true" signature="SurroundgenerateTestReport()[pri:0, instance:com.Testing.Surround@1725dc0f]" started-at="2021-11-30T23:40:21 IST" name="SurroundgenerateTestReport" finished-at="2021-11-30T23:40:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SurroundgenerateTestReport -->
+      </class> <!-- com.Testing.Surround -->
+      <class name="com.Testing.Success">
+        <test-method is-config="true" signature="SuccessSuit()[pri:0, instance:com.Testing.Success@7a69b07]" started-at="2021-11-30T23:39:26 IST" name="SuccessSuit" finished-at="2021-11-30T23:39:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuccessSuit -->
+        <test-method is-config="true" signature="SucessBeforeTest()[pri:0, instance:com.Testing.Success@7a69b07]" started-at="2021-11-30T23:39:26 IST" name="SucessBeforeTest" finished-at="2021-11-30T23:39:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SucessBeforeTest -->
+        <test-method is-config="true" signature="SuccessBeforeClass()[pri:0, instance:com.Testing.Success@7a69b07]" started-at="2021-11-30T23:39:26 IST" name="SuccessBeforeClass" finished-at="2021-11-30T23:39:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuccessBeforeClass -->
+        <test-method is-config="true" signature="sucessBefore()[pri:0, instance:com.Testing.Success@7a69b07]" started-at="2021-11-30T23:39:26 IST" name="sucessBefore" finished-at="2021-11-30T23:39:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessBefore -->
+        <test-method signature="SucessTest()[pri:0, instance:com.Testing.Success@7a69b07]" started-at="2021-11-30T23:39:26 IST" name="SucessTest" finished-at="2021-11-30T23:39:26 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SucessTest -->
+      </class> <!-- com.Testing.Success -->
+      <class name="com.Testing.Mouse">
+        <test-method signature="MouseTEST()[pri:0, instance:com.Testing.Mouse@4ac3c60d]" started-at="2021-11-30T23:39:51 IST" name="MouseTEST" finished-at="2021-11-30T23:40:20 IST" duration-ms="29314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseTEST -->
+      </class> <!-- com.Testing.Mouse -->
+      <class name="com.Testing.DumbleDore">
+        <test-method is-config="true" signature="DumbleDoresetup()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:39:26 IST" name="DumbleDoresetup" finished-at="2021-11-30T23:39:26 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbleDoresetup -->
+        <test-method is-config="true" signature="DumbleDoreLaunchBrowser()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:39:26 IST" name="DumbleDoreLaunchBrowser" finished-at="2021-11-30T23:39:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbleDoreLaunchBrowser -->
+        <test-method is-config="true" signature="DumbledoreLogin()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:20 IST" name="DumbledoreLogin" finished-at="2021-11-30T23:40:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbledoreLogin -->
+        <test-method is-config="true" signature="DumbledoreEnterURL()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:20 IST" name="DumbledoreEnterURL" finished-at="2021-11-30T23:40:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbledoreEnterURL -->
+        <test-method signature="DumbleDoredemo()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:20 IST" name="DumbleDoredemo" finished-at="2021-11-30T23:40:20 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbleDoredemo -->
+        <test-method is-config="true" signature="DumbleDorelogout()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:20 IST" name="DumbleDorelogout" finished-at="2021-11-30T23:40:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbleDorelogout -->
+        <test-method is-config="true" signature="DumbledoreEnterURL()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:20 IST" name="DumbledoreEnterURL" finished-at="2021-11-30T23:40:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbledoreEnterURL -->
+        <test-method signature="DumbleDorefirst()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:20 IST" name="DumbleDorefirst" finished-at="2021-11-30T23:40:20 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbleDorefirst -->
+        <test-method is-config="true" signature="DumbleDorelogout()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:20 IST" name="DumbleDorelogout" finished-at="2021-11-30T23:40:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbleDorelogout -->
+        <test-method is-config="true" signature="DumbleDoredeleteallcookies()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:20 IST" name="DumbleDoredeleteallcookies" finished-at="2021-11-30T23:40:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbleDoredeleteallcookies -->
+        <test-method is-config="true" signature="DumbleDoreCloseBrowser()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:20 IST" name="DumbleDoreCloseBrowser" finished-at="2021-11-30T23:40:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbleDoreCloseBrowser -->
+        <test-method is-config="true" signature="DumbleDoregenerateTestReport()[pri:0, instance:com.Testing.DumbleDore@4facf68f]" started-at="2021-11-30T23:40:21 IST" name="DumbleDoregenerateTestReport" finished-at="2021-11-30T23:40:21 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DumbleDoregenerateTestReport -->
+      </class> <!-- com.Testing.DumbleDore -->
+      <class name="com.Testing.Screenshots3">
+        <test-method signature="ScreenshotTest(java.lang.String)[pri:0, instance:com.Testing.Screenshots3@3911c2a7]" started-at="2021-11-30T23:39:26 IST" name="ScreenshotTest" finished-at="2021-11-30T23:39:51 IST" duration-ms="25495" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[webdriver.chrome.driver]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenshotTest -->
+      </class> <!-- com.Testing.Screenshots3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
